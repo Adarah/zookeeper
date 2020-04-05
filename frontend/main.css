@@ -9,8 +9,8 @@
 #r{
     color:red;
     float:right;
-
     width: 33.3%;
     border: 1px solid black;
     box-sizing: border-box;
+    word-break: break-all;
 }
