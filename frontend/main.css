@@ -1,0 +1,16 @@
+#container{
+    float: left;
+    color: blue;
+    width: 60.0%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#r{
+    color:red;
+    float:right;
+
+    width: 33.3%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}

@@ -1,0 +1,5 @@
+.python-version
+node_modules/
+.eslintrc*
+.log/
+*.json

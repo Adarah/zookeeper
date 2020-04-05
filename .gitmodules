@@ -1,0 +1,3 @@
+[submodule "python-zktreeutil"]
+	path = python-zktreeutil
+	url = git@github.com:Adarah/python-zktreeutil.git
